@@ -1,5 +1,40 @@
-# 💫 About Me:
-⚡ Safayath<br><br>👋 আসসালামু আলাইকুম, I'm Md Safayath Chowdhury<br>💻 Student & Beginner App Developer<br>📍 Chattogram, Bangladesh 🇧🇩<br><br>✨ About Me<br><br>I’m a curious developer who loves turning ideas into real projects.<br>From building a J.A.R.V.I.S. style personal AI assistant to experimenting with ESP8266 (NodeMCU), I enjoy mixing creativity with code.<br><br>I like working on:<br><br>🔹 IoT & hardware projects<br>🔹 Website design & UI<br>🔹 Fun interactive web apps<br>🔹 Automation with Python<br><br>Every project I build is a step forward in my journey 🚀<br><br>🧠 What I Do<br>🤖 Built a JARVIS AI Assistant (Python)<br>📡 Work with ESP8266 (NodeMCU) projects like:<br>Laser Security Alert<br>Motion Alert System<br>WiFi Security Tools<br>Universal Remote<br>Weather Station (DHT11)<br>🌐 Designed websites (like a Truth or Dare auto-spin web app)<br>💻 Love coding & learning new tech<br>⚙️ Current Skills<br>🌐 Web Development (HTML, CSS, JS)<br>🐍 Python (Automation & AI basics)<br>📡 IoT with ESP8266<br>📱 Beginner App Development<br>🎨 UI / Creative Design<br>🛠️ Featured Projects<br>🤖 Jarvis Assistant – Voice-controlled automation system<br>🌦️ ESP8266 Weather Station – Sensor-based data system<br>🎯 Truth or Dare Website – Auto-spin interactive game<br>🔐 ESP8266 Security Tools – Smart alert systems<br>🧭 Learning Journey<br>📘 Started with Web Development<br>🐍 Learned Python & built Jarvis<br>📡 Entered IoT with NodeMCU<br>🎨 Now exploring UI design & creative projects<br>💡 Fun Fact<br><br>I see every bug as a challenge and every project as a story 😄<br><br>📬 Let’s Connect<br>💬 Ask me about coding, IoT, or projects<br>🚀 Always open to learning & collaboration
+# 💫 About Me
+
+👋 **Safayath** | Student & Developer  
+📍 Chattogram, Bangladesh 🇧🇩
+
+> Turning ideas into real projects with code & creativity.
+
+---
+
+### 🔧 What I Work On
+
+- 🤖 **AI Assistant** – J.A.R.V.I.S. style (Python)
+- 📡 **IoT with ESP8266** – Security, sensors, automation
+- 🌐 **Web & UI** – Interactive apps, creative design
+- 📱 **App Development** – Beginner exploring mobile dev
+
+---
+
+### ⚡ Current Stack
+
+`Python` · `JS/HTML/CSS` · `ESP8266` · `UI Design`
+
+---
+
+### 🚀 Featured Projects
+
+- **Jarvis Assistant** – Voice-controlled automation  
+- **ESP8266 Weather Station** – DHT11 sensor system  
+- **Truth or Dare Web App** – Auto-spin game  
+- **Smart Security Tools** – Laser & motion alerts  
+
+---
+
+### 📬 Let's Connect
+
+💬 Ask me about IoT, Python, or web projects  
+🔄 Always learning & open to collab
 
 
 ## 🌐 Socials:
