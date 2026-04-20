@@ -12,7 +12,6 @@
 - 🤖 **AI Assistant** – J.A.R.V.I.S. style (Python)
 - 📡 **IoT with ESP8266** – Security, sensors, automation
 - 🌐 **Web & UI** – Interactive apps, creative design
-- 📱 **App Development** – Beginner exploring mobile dev
 - 
 ---
 
