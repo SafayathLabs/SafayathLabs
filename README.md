@@ -13,22 +13,7 @@
 - 📡 **IoT with ESP8266** – Security, sensors, automation
 - 🌐 **Web & UI** – Interactive apps, creative design
 - 📱 **App Development** – Beginner exploring mobile dev
-
----
-
-### ⚡ Current Stack
-
-`Python` · `JS/HTML/CSS` · `ESP8266` · `UI Design`
-
----
-
-### 🚀 Featured Projects
-
-- **Jarvis Assistant** – Voice-controlled automation  
-- **ESP8266 Weather Station** – DHT11 sensor system  
-- **Truth or Dare Web App** – Auto-spin game  
-- **Smart Security Tools** – Laser & motion alerts  
-
+- 
 ---
 
 ### 📬 Let's Connect
